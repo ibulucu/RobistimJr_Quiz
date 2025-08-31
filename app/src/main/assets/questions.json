@@ -1,0 +1,1012 @@
+[
+  {
+    "text": "What is Mars often called?",
+    "choices": [
+      "The Blue Planet",
+      "The Red Planet",
+      "The Gas Giant",
+      "The Ice World"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Mars is the ___ planet from the Sun.",
+    "choices": [
+      "2nd",
+      "3rd",
+      "4th",
+      "5th"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "What gives Mars its red color?",
+    "choices": [
+      "Lava",
+      "Iron oxide (rust)",
+      "Volcanoes",
+      "Red dust storms"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which two moons orbit Mars?",
+    "choices": [
+      "Phobos and Deimos",
+      "Titan and Rhea",
+      "Io and Europa",
+      "Ganymede and Callisto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which planet is most similar to Earth in day length?",
+    "choices": [
+      "Jupiter",
+      "Mars",
+      "Venus",
+      "Neptune"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What is the tallest volcano in the solar system, located on Mars?",
+    "choices": [
+      "Mount Everest",
+      "Olympus Mons",
+      "Valles Marineris",
+      "Mauna Kea"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Valles Marineris on Mars is…",
+    "choices": [
+      "A giant volcano",
+      "A deep canyon",
+      "A frozen lake",
+      "A crater"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The polar caps of Mars are made mostly of:",
+    "choices": [
+      "Sand",
+      "Rock",
+      "Frozen carbon dioxide and water",
+      "Salt"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The largest impact crater on Mars is called:",
+    "choices": [
+      "Gale Crater",
+      "Jezero Crater",
+      "Hellas Basin",
+      "Meteor Crater"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "What is Gale Crater famous for?",
+    "choices": [
+      "The landing site of Curiosity Rover",
+      "A giant volcano",
+      "Having aliens",
+      "The deepest canyon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "What is Mars’ atmosphere mostly made of?",
+    "choices": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Compared to Earth, Mars’ air pressure is:",
+    "choices": [
+      "The same",
+      "Much lower",
+      "Much higher",
+      "Always changing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Mars is colder than Earth because:",
+    "choices": [
+      "It is farther from the Sun",
+      "It has too much oxygen",
+      "It has no volcanoes",
+      "It spins too fast"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "What is a dust storm on Mars known for?",
+    "choices": [
+      "Being very short",
+      "Covering the whole planet",
+      "Producing rain",
+      "Melting ice caps"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Average surface temperature of Mars is about:",
+    "choices": [
+      "+20°C",
+      "-60°C",
+      "+50°C",
+      "-5°C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which was the first spacecraft to successfully land on Mars?",
+    "choices": [
+      "Voyager 1",
+      "Viking 1",
+      "Curiosity",
+      "Pathfinder"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which rover landed on Mars in 2021?",
+    "choices": [
+      "Opportunity",
+      "Curiosity",
+      "Perseverance",
+      "Spirit"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The Perseverance rover carries a small helicopter named:",
+    "choices": [
+      "Dragonfly",
+      "Falcon",
+      "Ingenuity",
+      "Phoenix"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which country was the first to send a rover to Mars?",
+    "choices": [
+      "Russia",
+      "USA",
+      "China",
+      "Japan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "China’s first Mars rover is called:",
+    "choices": [
+      "Zhurong",
+      "Tianwen",
+      "Chang’e",
+      "Dragon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "What is one of the biggest challenges for humans on Mars?",
+    "choices": [
+      "Too much oxygen",
+      "Lack of breathable air",
+      "Too much water",
+      "Too much gravity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "To grow plants on Mars, humans may need:",
+    "choices": [
+      "Martian soil and added nutrients",
+      "Moon rocks",
+      "Only sunlight",
+      "Robots instead of plants"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "What is “terraforming Mars”?",
+    "choices": [
+      "Building robots",
+      "Changing Mars’ environment to be more Earth-like",
+      "Digging tunnels",
+      "Planting flags"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "How long does it take to travel to Mars with current rockets?",
+    "choices": [
+      "1 week",
+      "1 month",
+      "6–9 months",
+      "5 years"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Why is living underground a good idea on Mars?",
+    "choices": [
+      "To find treasure",
+      "To escape radiation",
+      "To avoid earthquakes",
+      "To get closer to lava"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A day on Mars (a “sol”) is about:",
+    "choices": [
+      "12 hours",
+      "24.6 hours",
+      "36 hours",
+      "48 hours"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A year on Mars equals about:",
+    "choices": [
+      "365 days",
+      "687 Earth days",
+      "120 Earth days",
+      "1000 Earth days"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Gravity on Mars is about:",
+    "choices": [
+      "The same as Earth",
+      "Twice Earth’s",
+      "One-third Earth’s",
+      "Half of Earth’s"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "If you weigh 60 kg on Earth, on Mars you’d weigh about:",
+    "choices": [
+      "20 kg",
+      "40 kg",
+      "60 kg",
+      "80 kg"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Can liquid water exist on Mars’ surface today?",
+    "choices": [
+      "Yes, easily",
+      "Only briefly",
+      "No, never",
+      "It’s full of oceans"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Spirit and Opportunity rovers were famous for:",
+    "choices": [
+      "Flying around Mars",
+      "Discovering signs of past water",
+      "Planting trees",
+      "Meeting aliens"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Curiosity rover’s main goal is to:",
+    "choices": [
+      "Dig holes for people",
+      "Search for signs of life",
+      "Test rocket fuel",
+      "Deliver supplies"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Ingenuity helicopter is special because:",
+    "choices": [
+      "First helicopter to fly on another planet",
+      "It has wheels",
+      "It carries astronauts",
+      "It runs on water"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which rover lasted much longer than expected (14 years)?",
+    "choices": [
+      "Perseverance",
+      "Opportunity",
+      "Viking",
+      "Pathfinder"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Rovers send pictures to Earth using:",
+    "choices": [
+      "Internet Wi-Fi",
+      "Mars orbiters as relays",
+      "Human astronauts",
+      "Satellites on the Moon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Scientists think Mars once had:",
+    "choices": [
+      "Oceans",
+      "Dinosaurs",
+      "Forests",
+      "Cities"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "What are scientists mainly looking for on Mars?",
+    "choices": [
+      "Precious metals",
+      "Evidence of past or present life",
+      "Diamonds",
+      "Space stations"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Why is water so important for colonization?",
+    "choices": [
+      "It can make glass",
+      "It is needed for drinking and farming",
+      "It produces fuel directly",
+      "It cleans dust"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Can humans breathe Mars’ atmosphere directly?",
+    "choices": [
+      "Yes",
+      "No",
+      "Sometimes",
+      "Only at night"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What does “habitat” mean on Mars?",
+    "choices": [
+      "A small house for astronauts",
+      "A spaceship",
+      "A crater",
+      "A Martian cave"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which company plans to build Starship rockets to Mars?",
+    "choices": [
+      "NASA",
+      "SpaceX",
+      "ESA",
+      "Blue Origin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "NASA’s program planning human missions to Mars is related to:",
+    "choices": [
+      "Apollo",
+      "Artemis",
+      "Orion",
+      "Gemini"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Why is Mars considered a good target for colonization?",
+    "choices": [
+      "It’s closest to Earth",
+      "It has jungles",
+      "It’s bigger than Earth",
+      "It’s hotter than Venus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which resource could be made from Mars’ atmosphere?",
+    "choices": [
+      "Oxygen",
+      "Diamonds",
+      "Gold",
+      "Iron"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Robots on Mars help by:",
+    "choices": [
+      "Building cities",
+      "Testing equipment before humans arrive",
+      "Talking to Martians",
+      "Sending food"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "If humans live on Mars, what will they need most?",
+    "choices": [
+      "Video games",
+      "Food, water, oxygen",
+      "Jewelry",
+      "Cars"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "How can astronauts be protected from radiation on Mars?",
+    "choices": [
+      "Wearing normal clothes",
+      "Thick shielding or underground shelters",
+      "Drinking water only",
+      "Carrying umbrellas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What does “colonization” of Mars mean?",
+    "choices": [
+      "Visiting for a week",
+      "Establishing long-term human settlements",
+      "Sending robots only",
+      "Taking photos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which animal has been sent to Mars?",
+    "choices": [
+      "Dogs",
+      "Cats",
+      "None",
+      "Monkeys"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "What is the dream of colonizing Mars often called?",
+    "choices": [
+      "The Red Dream",
+      "The Blue Mission",
+      "The Sun Project",
+      "The Martian Moon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which rover is exploring Jezero Crater?",
+    "choices": [
+      "Curiosity",
+      "Perseverance",
+      "Spirit",
+      "Opportunity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Jezero Crater once held what?",
+    "choices": [
+      "A forest",
+      "A lake",
+      "A desert",
+      "A volcano"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Olympus Mons is about how many times taller than Mount Everest?",
+    "choices": [
+      "About 3 times",
+      "About 10 times",
+      "About 1.5 times",
+      "About the same"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "What is the main source of energy for most Mars rovers?",
+    "choices": [
+      "Coal",
+      "Wind",
+      "Solar panels or RTG",
+      "Water"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which of these is a benefit of Mars' low gravity for builders?",
+    "choices": [
+      "Heavier lifting is easier",
+      "No dust",
+      "More oxygen",
+      "Stronger storms"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "What protects Earth from radiation that Mars mostly lacks?",
+    "choices": [
+      "Thick forests",
+      "Strong magnetic field",
+      "Tall mountains",
+      "Deep oceans"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Why do spacesuits need to be worn outside habitats on Mars?",
+    "choices": [
+      "For fashion",
+      "For oxygen and pressure",
+      "To run faster",
+      "To see better"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What does ISRU stand for in Mars missions?",
+    "choices": [
+      "Inside Space Robot Unit",
+      "In-Situ Resource Utilization",
+      "Interstellar Rescue Utility",
+      "Internal System Reboot"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which gas can be made on Mars using CO2 and used for rocket fuel with hydrogen?",
+    "choices": [
+      "Nitrogen",
+      "Oxygen",
+      "Methane",
+      "Helium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "What simple greenhouse need is hardest on Mars?",
+    "choices": [
+      "Sunlight",
+      "Soil",
+      "Liquid water",
+      "Seeds"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which tool could make oxygen from Mars’ air?",
+    "choices": [
+      "MOXIE",
+      "RADAR",
+      "SONAR",
+      "LASER"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "A communication signal from Mars to Earth can take:",
+    "choices": [
+      "A few seconds",
+      "3–22 minutes",
+      "1 hour",
+      "1 day"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Why are dust storms a problem for solar rovers?",
+    "choices": [
+      "They freeze water",
+      "They block sunlight",
+      "They make earthquakes",
+      "They create oceans"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What do we call a robot that drives on another planet?",
+    "choices": [
+      "Satellite",
+      "Rover",
+      "Shuttle",
+      "Probe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which mission first showed water ice just below the Martian surface at its site?",
+    "choices": [
+      "Viking 2",
+      "Phoenix lander",
+      "Pathfinder",
+      "Mariner 4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Mars’ sky often looks:",
+    "choices": [
+      "Deep blue",
+      "Pinkish or butterscotch",
+      "Green",
+      "Black at noon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What is the main reason parachutes are huge for Mars landings?",
+    "choices": [
+      "To look cool",
+      "Thin air needs bigger parachutes",
+      "Wind pushes harder",
+      "They stay for shade"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What is the best place to get water on Mars for settlers?",
+    "choices": [
+      "Underground ice",
+      "Clouds",
+      "Rivers",
+      "The equator sand"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Why would settlers 3D-print buildings on Mars?",
+    "choices": [
+      "For fun",
+      "To use local materials",
+      "To melt ice caps",
+      "To grow taller plants"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What is a regolith brick?",
+    "choices": [
+      "A food bar",
+      "A rock from Earth",
+      "A building block made from Martian soil",
+      "A kind of battery"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which planet has the biggest canyon, Valles Marineris?",
+    "choices": [
+      "Earth",
+      "Venus",
+      "Mars",
+      "Mercury"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "What is the safest color for warning signs in a dusty Mars base?",
+    "choices": [
+      "Red on red",
+      "Yellow/black high contrast",
+      "Pale pink",
+      "Light gray"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What is the main reason to wear visors in Mars sunlight?",
+    "choices": [
+      "For style",
+      "To reduce glare and UV",
+      "To talk to robots",
+      "To hear better"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What must Mars habitats keep stable?",
+    "choices": [
+      "Air pressure, temperature, oxygen",
+      "Only colors",
+      "Only sound",
+      "Only Wi‑Fi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which job might kids do in a Mars classroom garden?",
+    "choices": [
+      "Planet driving",
+      "Tending hydroponic plants",
+      "Rocket piloting",
+      "Moon surfing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Hydroponics means growing plants:",
+    "choices": [
+      "In sand",
+      "In water with nutrients",
+      "Only in soil",
+      "Without light"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What could power a Mars base during a dust storm?",
+    "choices": [
+      "Kites",
+      "RTG/nuclear power",
+      "Windmills only",
+      "Nothing works"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Why do astronauts train in deserts or icy places on Earth?",
+    "choices": [
+      "They like camping",
+      "Similar tough conditions",
+      "Short flights",
+      "Cheaper food"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a challenge on Mars?",
+    "choices": [
+      "Low gravity",
+      "Thin atmosphere",
+      "High oxygen",
+      "Radiation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Why is Jezero Crater interesting for life studies?",
+    "choices": [
+      "Active volcano today",
+      "Old river delta",
+      "Giant glaciers now",
+      "Human cities"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What tool collects rock cores on Mars?",
+    "choices": [
+      "Paintbrush",
+      "Drill",
+      "Vacuum",
+      "Hammer only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What happens to water in low pressure on Mars?",
+    "choices": [
+      "Stays liquid long time",
+      "Boils or freezes quickly",
+      "Turns to metal",
+      "Becomes sand"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What is a habitat airlock for?",
+    "choices": [
+      "To park rovers",
+      "To move in/out without losing air",
+      "To store food",
+      "To take naps"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A spacesuit backpack provides:",
+    "choices": [
+      "Snacks",
+      "Life support systems",
+      "Music",
+      "Paint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of Mars is coldest?",
+    "choices": [
+      "Near the poles",
+      "Near the equator",
+      "Underground caves",
+      "Inside volcanoes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "What could settlers make from Martian regolith glass?",
+    "choices": [
+      "Windows and fibers",
+      "Chocolate",
+      "Fresh air",
+      "Ice cream"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Why are robots sent before humans?",
+    "choices": [
+      "Robots are bored",
+      "To scout and test systems",
+      "To keep secrets",
+      "To vote"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Why must food be carefully planned on Mars?",
+    "choices": [
+      "To avoid cooking",
+      "Limited resupply and resources",
+      "Too many restaurants",
+      "Food grows wild"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a healthy Mars meal idea?",
+    "choices": [
+      "Leafy greens from hydroponics",
+      "Only candy",
+      "Dust soup",
+      "Rocks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "What is a Mars sol compared to an Earth day?",
+    "choices": [
+      "Shorter",
+      "Slightly longer",
+      "Half",
+      "Twice"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What does a rover’s mast camera do?",
+    "choices": [
+      "Cooks food",
+      "Takes images and videos",
+      "Shoots lasers only",
+      "Pumps air"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Why do habitats need backup systems?",
+    "choices": [
+      "For comfort only",
+      "In case of failures",
+      "To impress visitors",
+      "To look cool"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What should you avoid breathing on Mars?",
+    "choices": [
+      "Fresh air",
+      "Dust and CO2",
+      "Oxygen",
+      "Perfume"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of these is a Mars moon shape?",
+    "choices": [
+      "Perfect sphere",
+      "Potato-like",
+      "Cube",
+      "Flat disc"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What is a sample return mission?",
+    "choices": [
+      "Bringing Earth rocks to Mars",
+      "Bringing Mars rocks to Earth",
+      "Returning people to Moon",
+      "Sending animals to Mars"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Why are batteries important for rovers?",
+    "choices": [
+      "They store power",
+      "They hold wheels",
+      "They grow plants",
+      "They make air"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which direction does the Sun rise on Mars?",
+    "choices": [
+      "West",
+      "East",
+      "Both",
+      "Neither"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What is a key sign that water once flowed on Mars?",
+    "choices": [
+      "Round pebbles",
+      "Tall trees",
+      "Blue rivers today",
+      "Seashells now"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Why do astronauts follow strict checklists?",
+    "choices": [
+      "For fun",
+      "To stay safe and organized",
+      "To draw pictures",
+      "To win games"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which power helps a parachute slow a lander on Mars?",
+    "choices": [
+      "Gravity pulling up",
+      "Air resistance (drag)",
+      "Magnetism",
+      "Electricity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Why is teamwork vital on Mars?",
+    "choices": [
+      "Games are better",
+      "Many tasks need many skills",
+      "To make noise",
+      "To build statues"
+    ],
+    "correctIndex": 1
+  }
+]
